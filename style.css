@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family : sans-serif;
+}
+body{
+    background: "80FF33";
+}
+.container{
+    text-align: center;
+    position: absoulte;
+    top: 50%
+    left 50%
+    transition:
+}
+.container span{
+    color blue;
+    text-transform: uppercase;
+    display:block;
+}
