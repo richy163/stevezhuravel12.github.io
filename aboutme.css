@@ -1,6 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family : sans-serif;
+}
+body{
+    background: "80FF33";
+}
+
 .header{
     background-color : black;
     color: rgb(0, 170, 22);
-    text-align: right;
+    text-align: left;
     padding: 1s0px;
 }
