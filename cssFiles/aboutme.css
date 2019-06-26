@@ -1,10 +1,6 @@
-*{
-    padding: 0;
-    margin: 0;
-    font-family : sans-serif;
-}
+
 body{
-    background: "80FF33";
+    background: black;
 }
 
 .header{
