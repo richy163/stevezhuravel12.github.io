@@ -25,3 +25,6 @@ table{
 .clearfix {
     overflow: auto;
   }
+  .imgfriend{
+    float: left;
+}
