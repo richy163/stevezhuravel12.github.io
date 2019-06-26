@@ -10,7 +10,7 @@ body{
 
 a {
     text-decoration: none;
-    color: red;
+    color: white;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -21,7 +21,7 @@ table{
     /*background:rgb(47, 255, 134);*/
     background: #000000;
     color: white;
-    padding: 20px;
+    padding: 100px;
 }
 
 .header{
