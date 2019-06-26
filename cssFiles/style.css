@@ -36,14 +36,14 @@ table{
   }
   
   .imgfriend{
-    float: right;
+    float: left;
     text-align: left;
 }
 .imgferryride{
-    float: right;
+    float: left;
     text-align: left;
 }
 .imgyankeesstadiumpic{
-    float: right;
+    float: left;
     text-align: left;
 }
