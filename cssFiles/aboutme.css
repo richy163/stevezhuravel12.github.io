@@ -4,11 +4,11 @@
     font-family : sans-serif;
 }
 body{
-    background: "yellow";
+    background-color: purple;
 }
 
 .header{
-    background-color : black;
+    background-color : yellow;
     color: rgb(0, 130, 22);
     text-align: right;
     padding: 10px;
