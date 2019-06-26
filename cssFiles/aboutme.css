@@ -13,11 +13,15 @@ a {
     color: red;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    color: #020833;
+}
 
 table{
     /*background:rgb(47, 255, 134);*/
     background: #000000;
     color: white;
+    padding: 20px;
 }
 
 .header{
