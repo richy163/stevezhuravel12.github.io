@@ -6,12 +6,20 @@
 
 body{
     background-color: aqua;
-    text-decoration-color: red;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h{
+    color: violet;
 }
 
 .header{
-    background-color : yellow;
-    color: rgb(0, 130, 22);
+    background-color : black;
+    /*(color: rgb(0, 130, 22);*/
     text-align: right;
     padding: 10px;
 }
