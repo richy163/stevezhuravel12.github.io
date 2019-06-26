@@ -13,8 +13,14 @@ a {
     color: white;
 }
 
-h1{
+h1 h2 h3{
     color: violet;
+}
+
+table{
+    /*background:rgb(47, 255, 134);*/
+    background: #000000;
+    color: white;
 }
 
 .header{
