@@ -6,7 +6,10 @@
 body{
     background: "80FF33";
 }
-
+a{
+    text-decoration: none;
+    color: white;
+}
 table{
     /*background:rgb(47, 255, 134);*/
     background: #000000;
