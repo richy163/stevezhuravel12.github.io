@@ -27,7 +27,13 @@ table{
   }
   .imgfriend{
     float: left;
+    text-align: left;
 }
 .imgferryride{
     float: left;
+    text-align: left;
+}
+.imgyankeesstadiumpic{
+    float: left;
+    text-align: left;
 }
