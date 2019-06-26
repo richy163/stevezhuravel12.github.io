@@ -29,6 +29,12 @@ table{
 .clearfix {
     overflow: auto;
   }
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
   .imgfriend{
     float: left;
     text-align: left;
