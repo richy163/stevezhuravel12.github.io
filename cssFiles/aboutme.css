@@ -3,8 +3,10 @@
     margin: 0;
     font-family : sans-serif;
 }
+
 body{
-    background-color: purple;
+    background-color: aqua;
+    text-decoration-color: red;
 }
 
 .header{
