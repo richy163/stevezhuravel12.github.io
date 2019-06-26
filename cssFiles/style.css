@@ -48,3 +48,6 @@ div {
     float: left;
     text-align: left;
 }
+.left {
+    float: left;
+    background: pink;
