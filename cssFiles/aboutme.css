@@ -2,20 +2,17 @@
     padding: 0;
     margin: 0;
     font-family : sans-serif;
+    background: lightcoral;
 }
 body{
-    background-color: lightcoral;
+    background: lightcoral;
     
 }
 a{
     text-decoration: none;
     color: white;
 }
-table{
-    /*background:rgb(47, 255, 134);*/
-    background: #000000;
-    color: white;
-}
+
 
 .header{
     background-color : black;
@@ -40,7 +37,7 @@ list-style-type: NaNem;
 }
 /* Add a black background color to the top navigation */
 .menu {
-    background-color: #333;
+    background-color: lightskyblue;
     overflow: hidden;
   }
   
@@ -74,10 +71,5 @@ list-style-type: NaNem;
 h1{
    text-align: center;
 }
-
-
-
-
-
 
 
